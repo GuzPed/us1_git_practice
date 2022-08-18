@@ -4,4 +4,6 @@ public class NewNewFile {
 
     // just created a newNewFile
 
+    // it is updated
+
 }
